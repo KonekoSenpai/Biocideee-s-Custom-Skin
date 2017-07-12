@@ -1,9 +1,9 @@
-//META{"name":"Sleek","description":"Esbee's Custom Discord Skin!"}*//{}
-/* "Sleek v1" by KonekoSenpai */
+//META{"name":"Subie","description":"Biocidee's Custom Discord Skin!","author":"KonekoSenpai","version":"1.0"}*//{}
+/* "Subie v1" by KonekoSenpai */
 /* Based on "ClearVision_Sapphire v5" by @Zerthox */
 
 /* IMPORT CSS FROM GITHUB */
-@import url(https://github.com/KonekoSenpai/Esbee-s-Discord-Skin/edit/master/Institution.theme.css);
+@import url(https://github.com/KonekoSenpai/Biocideee-s-Custom-Skin/blob/master/Biocidee.theme.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: This got really easy after doing Delerium's Skin!
@@ -22,7 +22,7 @@ Twitch: http://twitch.tv/KonekoSenpaiii
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #43b581;
+	--main-color: #7f43e0;
 	--hover-color: #1b1b1b;
     --background-blur: 0px;
     --background-brightness: 100%;
@@ -44,9 +44,10 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/Esbee-s-Discord-Skin/master/eye.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
-	background-size: 768px 1024px !important;
-	background-position: center !important;
+    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/Biocideee-s-Custom-Skin/master/subie.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+	background-size: 750px 741px !important;
+	background-position: cover !important;
+	background-repeat: no-repeat !important;
 	
 }
 /*
